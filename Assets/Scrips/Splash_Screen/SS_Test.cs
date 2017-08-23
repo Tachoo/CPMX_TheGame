@@ -1,23 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SS_Test : MonoBehaviour {
     //Descripcion
     /*
-     * 
+     * Script multipropocito 
      */
-    #region 
-    #endregion
-    // Use this for initialization
-    void Start ()
-    {
-		
-	}
-	
-	// Update is called once per frame
-	void Update ()
-    {
-		
-	}
+
 }
